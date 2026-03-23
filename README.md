@@ -9,12 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Antz1803&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antz1803&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Antz1803&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Antz1803&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Antz1803&icon=0&color=0)](https://visitcount.itsvg.in)
 
